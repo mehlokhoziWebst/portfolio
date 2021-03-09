@@ -1,0 +1,19 @@
+.topHeader{
+    background-color: #ffad00;
+    padding-right: 100%;
+    padding-bottom: 32px;
+    margin:-10px;
+}
+.getCV{
+    background-color: white;
+    padding-left: 50px;
+    padding-right:50px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+    .topHeader{
+        padding-bottom: 40px;
+    }
+}
